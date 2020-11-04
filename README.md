@@ -22,7 +22,7 @@
 ![Step 3 of tutorial](/assets/step3.png)
 
 
-## 4). If you want to view the details of you submission, then click on the "Name" of the assignment itself. Doing so will take you to the "detailed grade" page of that assignment. Doing so does NOT take you to the assignment itself.
+## 4). If you want to view the details of your submission, then click on the "Name" of the assignment itself. Doing so will take you to the "detailed grade" page of that assignment. Doing so does NOT take you to the assignment itself.
 
 
 ![Step 4 of tutorial](/assets/step4.png)
