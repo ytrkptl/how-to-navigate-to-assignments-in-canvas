@@ -7,7 +7,7 @@
 - If it is hidden, you may have to click on the 3 horizontal lines that represent a "menu" icon on the top left of the page.
 
 
-![Step 1 of tutorial](/assets/step1.png)
+![Step 1 of tutorial](/assets/step1-new.png)
 
 
 ## 2). On the grades page, you should be able to see the following details for each assignment: Name, Due, Status, Score, Out Of, etc.
